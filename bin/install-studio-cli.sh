@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# This script is used to install the Studio CLI on macOS. It creates a symlink at CLI_SYMLINK_PATH
+# This script is used to install the Studio CLI on macOS and Linux. It creates a symlink at CLI_SYMLINK_PATH
 # (e.g. /usr/local/bin/studio) pointing to the packaged Studio CLI JS file at CLI_PACKAGED_PATH.
 
 # Exit if any command fails
